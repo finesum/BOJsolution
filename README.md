@@ -1,5 +1,5 @@
 # BOJsolution
-## Collection of chosen codes in coding study (https://github.com/StudyForCoding-BJ)
+### Collection of chosen codes in coding study (https://github.com/StudyForCoding-BJ)
 
 Added TIL as a comment. (Things to improve, Runtime Analysis, Algorithm, Memory, etc.)
 
