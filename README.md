@@ -11,4 +11,6 @@ Added TIL as a comment. (Things to improve, Runtime Analysis, Algorithm, Memory,
 
 22.01.10. 2nd Coding Study (기본 수학 1, 2 - total 20)
 
-22.01.10. Create Repository
+22.01.10. Create Repository, update 1st Coding Study Result
+
+22.01.14. Update 2nd Coding Study Result
